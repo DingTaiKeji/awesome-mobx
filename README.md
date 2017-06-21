@@ -207,7 +207,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [A simple Tetris using React + MobX](https://github.com/1984weed/mobx-react-tetris)
 - [React Native + Mobx sample app](https://github.com/winterbe/RNTimerExample)
 - [TypeScript + MobX](https://github.com/dimafeng/typescript-react-mobx-template)
-- [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app)
+- ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg) [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app)
 - [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx)
 - [TypeScript example graphics editor: baltar](https://github.com/danielearwicker/baltar)
 - [A social mobile messaging marketplace app using React Native, Firebase, Mobx, CodePush, OneSignal](https://jsapp.me/a-social-mobile-messaging-marketplace-app-using-react-native-firebase-mobx-codepush-onesignal-fad105e70fc1) (code available on [GitHub](https://github.com/jsappme/react-native-firebase-starter))
@@ -263,7 +263,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX inferno bindings](https://www.npmjs.com/package/inferno-mobx)
 - For Preact the [preact-compat](https://github.com/developit/preact-compat) module + mobx-react can be used.
 - [react-native-mobx](https://github.com/aksonov/react-native-mobx) Make your app reactive with MobX and react-native-router-flux
-- Staff pick: [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms and validate them using json-schema rules
+- ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg) [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms and validate them using json-schema rules
 - [mobx-form-store](https://github.com/alexhisen/mobx-form-store) + [mobx-schema-form](https://github.com/alexhisen/mobx-schema-form) Loosely-coupled components for managing, rendering and validating forms in MobX-based apps
 - [mobx-input](https://github.com/tomaash/mobx-input) Form validation for MobX and react-bootstrap.
 - [Form abstraction in one fiddle](https://jsfiddle.net/darthapo/k63ujjsp/)
